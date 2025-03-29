@@ -20,4 +20,5 @@ https://github.com/parkermunsey/week3labs/blob/main/assets/03_Independant_Refere
 https://github.com/parkermunsey/week3labs/blob/main/assets/03_Independant_Reference_Question(2).png (Question)
 https://github.com/parkermunsey/week3labs/blob/main/assets/03_Independant_Reference_Answer(2).png (Answer) 
 
-
+(Table Creating and Formatting) 
+https://github.com/parkermunsey/week3labs/blob/main/assets/03_Independant_Reference(3).png
